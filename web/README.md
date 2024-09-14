@@ -2,6 +2,12 @@
 
 # Resources
 
+### [REST API - Layered Architecture](https://mavericks.fi/layered-architecture-for-rest-apis/)
+
+An article that briefly describes the layered architecture of REST APIs.
+
+![API Layers](./images/layered-architecture.svg)
+
 ### [HttpDev](https://http.dev/)
 
 A collection of resources regarding the HTTP protocol (status codes, headers, methoods).
