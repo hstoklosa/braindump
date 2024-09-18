@@ -1,4 +1,8 @@
-# Web
+# Backend
+
+<p align="center">
+  <img src="./images/layered-architecture.svg" />
+</p>
 
 # Resources
 
@@ -11,10 +15,6 @@ A collection of resources on the HTTP protocol, which provides detailed explanat
 ### [Learn REST API Design](https://www.restapitutorial.com/)
 
 A comprehensive guide to REST API design through a series of lessons that cover the basics of RESTful web services e.g., the 6 constraints, resource naming, and so on.
-
-<p align="center">
-  <img src="./images/layered-architecture.svg" />
-</p>
 
 # Articles
 
