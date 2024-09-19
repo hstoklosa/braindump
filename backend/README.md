@@ -10,7 +10,7 @@
 
 A collection of resources on the HTTP protocol, which provides detailed explanations of various topics, such as headers, methods, status codes, and URIs.
 
-[Similar, but only status codes.](https://http.cat/)
+[Similar resource, but only status codes.](https://http.cat/)
 
 ### [Learn REST API Design](https://www.restapitutorial.com/)
 
