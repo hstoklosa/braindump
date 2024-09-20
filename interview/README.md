@@ -4,6 +4,10 @@ An ongoing grind to secure that entry-level SWE position at a 🦄 unicorn compa
 
 ## Resources
 
+### [NeetCode](https://neetcode.com/)
+
+A collection of LeetCode problems and solutions, or simply, THE GOAT OF ALL CODING PRACTICE RESOURCES.
+
 ### [HelloAlgo Course](https://www.hello-algo.com/en/)
 
 A comprehensive (open-source) crash course on DSA that covers a wide range of topics, from complexity analysis to dynamic programming.
