@@ -6,20 +6,29 @@ A list of resources related to the React library.
 
 ### [bulletproof-react](https://github.com/alan2207/bulletproof-react)
 
-The repository's README describes the purpose of this resource by saying:
+As the repository's README describes itself:
 
-- _"A simple, scalable, and powerful architecture for building production ready React applications."_
-- _"This repo attempts to present a way of creating React applications using some of the best tools in the ecosystem with a good project structure that scales very well."_
+- _"A simple, scalable, and powerful architecture for building production ready React applications."_ ... _"This repo attempts to present a way of creating React applications using some of the best tools in the ecosystem with a good project structure that scales very well."_
 
 ### [react-philosophies](https://github.com/mithi/react-philosophies)
 
-A repository that contains a concise list of things to remember when writing React code, focusing on best practices, design principles, and performance optimisation.
-
-It is a living resource, which constantly evolves with contributions from the React community so feel to checkout the [PR Template](https://github.com/mithi/react-philosophies/blob/main/WIP_PR_TEMPLATE.md) if you want to contribute.
+A repo that maintains a concise list of things to think about when writing React code, focusing on best practices, design principles, and performance optimisation.
 
 ## Articles
 
-#### thoughtspile/vladimir_klepov
+#### Joshua Comeau
+
+- [Data Binding in React - Beginner/Intermediate](https://www.joshwcomeau.com/react/data-binding/)
+
+- [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/) ⭐
+
+- [Common Beginner Mistakes with React: Pitfalls, gotchas, and footguns, oh my!](https://www.joshwcomeau.com/react/common-beginner-mistakes/)
+
+- [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/) ⭐
+
+- [Understanding useMemo and useCallback](https://www.joshwcomeau.com/react/usememo-and-usecallback/)
+
+#### Vladimir Klepov (thoughtspile)
 
 - [How to destroy your app performance using React contexts](https://thoughtspile.github.io/2021/10/04/react-context-dangers/)
 
@@ -46,6 +55,8 @@ It is a living resource, which constantly evolves with contributions from the Re
 - <a name="a-mostly-complete-guide-to-react-rendering-behavior"></a> [A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
 
 #### Kent C. Dodds
+
+- [[Modern Series] Epic React Articles](https://www.epicreact.dev/articles) ⭐
 
 - [One simple trick to optimize React re-renders](https://kentcdodds.com/blog/optimize-react-re-renders)
 
