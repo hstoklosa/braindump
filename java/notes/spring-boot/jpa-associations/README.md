@@ -1,7 +1,6 @@
-# [Map Associations with JPA and Hibernate](https://thorben-janssen.com/ultimate-guide-association-mappings-jpa-hibernate/#biManyToOne)
+# [Map Associations with JPA and Hibernate (🔗)](https://thorben-janssen.com/ultimate-guide-association-mappings-jpa-hibernate/)
 
-[Tutorial Link](https://thorben-janssen.com/ultimate-guide-association-mappings-jpa-hibernate/)
-
+- [Introduction](#introduction)
 - [Many-to-One Associations](#many-to-one-associations)
   - [Unidirectional Many-to-One Association](#unidirectional-many-to-one-association)
   - [Unidirectional One-to-Many Association](#unidirectional-one-to-many-association)
