@@ -1,4 +1,4 @@
-# Nesting paths in a REST API.
+# Nesting paths in a REST API
 
 ## Best Practices
 
@@ -18,7 +18,7 @@ In short, the non-nested design seems to allow a more flexible and simpler endpo
 
 ### Reference:
 
-- [What are best practices for REST nested resources?](https://stackoverflow.com/questions/20951419/what-are-best-practices-for-rest-nested-resources)
+- [What are best practices for REST nested resources?](https://stackoverflow.com/a/36410780/13910414)
 
 ## Rule of thumb when nesting resources
 
@@ -26,14 +26,15 @@ Note that this doesn't mean that you should avoid any form of hierarchy in your 
 
 - If the resource makes no sense outside the context of its parent resource, use hierarchy.
 
-- If the resource can live (1) alone or (2) in a context of parent resources of different types or (3) have multiple parents, the hierarchy should not be used.
+- If the resource can live **(1)** alone or **(2)** in a context of parent resources of different types or **(3)** have multiple parents, the hierarchy should not be used.
 
 For instance, lines of a file make no sense outside the context of a file, so:
 
-GET /file/:fileId
+`GET /file/:fileId`
+
 and:
 
-GET /file/:fileId/line/:lineIndex
+`GET /file/:fileId/line/:lineIndex`
 
 are fine.
 
