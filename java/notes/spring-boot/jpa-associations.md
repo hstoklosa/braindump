@@ -1,4 +1,4 @@
-# [Map Associations with JPA and Hibernate (🔗)](https://thorben-janssen.com/ultimate-guide-association-mappings-jpa-hibernate/)
+# [🔗 Map Associations with JPA and Hibernate](https://thorben-janssen.com/ultimate-guide-association-mappings-jpa-hibernate/)
 
 - [Introduction](#introduction)
 - [Many-to-One Associations](#many-to-one-associations)

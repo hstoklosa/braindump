@@ -20,11 +20,10 @@ These models have been trained on large amounts of text data, which allows them 
 2. Carrying conversations
 3. Summarising input text
 4. Translating text
-5. ...
 
 Contributors to LLM:
 
-- OpenAI
+- OpenAI (GPT-3, GPT-4)
 - Meta ([OPT](https://huggingface.co/facebook/opt-66b), [OPT-IML](https://huggingface.co/facebook/opt-iml-30b), and [LLaMA](https://ai.meta.com/blog/large-language-model-llama-meta-ai/))
 - Google ([FLAN-T5](https://huggingface.co/google/flan-t5-xxl) and [BERT](https://huggingface.co/bert-base-uncased))
 - Stability AI with [StableLM](https://github.com/stability-AI/stableLM/)
@@ -61,7 +60,7 @@ For example:
 
 It provides relevant text (gathered from training), but it is clearly not answering the questions.
 
-## Instruction tuned LLMs
+## Instruction Tuned LLMs
 
 Try to follow the given instruction using the data they have been trained on.
 
@@ -78,23 +77,3 @@ _**IT-LLMs are built on top of B-LLMs**_
 LLMs are a powerful tools that can be used to solve a variety of language-related tasks.
 
 They have the potential to revolutionise the way we interact with computers and make our lives easier.
-
-# [A Very Gentle Introduction to Large Language Models without the Hype (🔗)](https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e)
-
-## Table of Contents
-
-- [What is Artificial Intelligence?](#what-is-artificial-intelligence)
-
-- [What is Machine Learning?](#what-is-machine-learning)
-
-- [What is a Neural Network?](#what-is-a-neural-network)
-
-- [What is Deep Learning?](#what-is-deep-learning)
-
-## What is Artificial Intelligence?
-
-## What is Machine Learning?
-
-## What is a Neural Network?
-
-## What is Deep Learning?
