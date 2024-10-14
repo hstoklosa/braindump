@@ -1,16 +1,28 @@
-# [🔗 Map Associations with JPA and Hibernate](https://thorben-janssen.com/ultimate-guide-association-mappings-jpa-hibernate/)
+# [<span style="font-size:0.65em;vertical-align: 13%;">🔗</span> Map Associations with JPA and Hibernate](https://thorben-janssen.com/ultimate-guide-association-mappings-jpa-hibernate/)
 
-- [Introduction](#introduction)
-- [Many-to-One Associations](#many-to-one-associations)
-  - [Unidirectional Many-to-One Association](#unidirectional-many-to-one-association)
-  - [Unidirectional One-to-Many Association](#unidirectional-one-to-many-association)
-  - [Bidirectional Many-to-One Associations](#bidirectional-many-to-one-associations)
-- [Many-to-Many Associations](#many-to-many-associations)
-  - [Unidirectional Many-to-Many Associations](#unidirectional-many-to-many-associations)
-  - [Bidirectional Many-to-Many Associations](#bidirectional-many-to-many-associations)
-- [One-to-One Associations](#one-to-one-associations)
-  - [Unidirectional One-to-One Associations](#unidirectional-one-to-one-associations)
-  - [Bidirectional One-to-One Associations](#bidirectional-one-to-one-associations)
+## Table of Contents
+
+1. [Introduction](#introduction)
+
+2. [Many-to-One Associations](#many-to-one-associations)
+
+   2.1. [Unidirectional Many-to-One Association](#unidirectional-many-to-one-association)
+
+   2.2. [Unidirectional One-to-Many Association](#unidirectional-one-to-many-association)
+
+   2.3. [Bidirectional Many-to-One Associations](#bidirectional-many-to-one-associations)
+
+3. [Many-to-Many Associations](#many-to-many-associations)
+
+   3.1. [Unidirectional Many-to-Many Associations](#unidirectional-many-to-many-associations)
+
+   3.2. [Bidirectional Many-to-Many Associations](#bidirectional-many-to-many-associations)
+
+4. [One-to-One Associations](#one-to-one-associations)
+
+   4.1. [Unidirectional One-to-One Associations](#unidirectional-one-to-one-associations)
+
+   4.2. [Bidirectional One-to-One Associations](#bidirectional-one-to-one-associations)
 
 ## Introduction
 
@@ -284,3 +296,7 @@ public class ShippingAddress{
 
 }
 ```
+
+## References
+
+- [Map Associations with JPA and Hibernate – The Ultimate Guide](https://thorben-janssen.com/ultimate-guide-association-mappings-jpa-hibernate/)
