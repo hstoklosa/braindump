@@ -326,9 +326,9 @@ User findUserByStatusAndNameNamedParamsNative(
 
 ## Collection Parameter
 
-CASE: The _WHERE_ clause of a JPQL/SQL query contains either _IN_ or _NOT IN_ operator.
+_**CASE:**_ The _WHERE_ clause of a JPQL/SQL query contains either _IN_ or _NOT IN_ operator.
 
-Define a query that takes Collection as a parameter (can be used with `List`, `HashSet` etc).
+To handle this case, define a query that takes Collection as a parameter (can be used with `List`, `HashSet` etc).
 
 ```java
 SELECT u FROM User u WHERE u.name IN :names
@@ -412,7 +412,7 @@ _**Spring provides a way for extending the base repository through the use of cu
 
 Those can be linked together to create a [composite repository](https://www.baeldung.com/spring-data-composable-repositories).
 
-Also, the [JPA Criteria API](https://www.baeldung.com/hibernate-criteria-queries) is leveraged to build dynamic queries.
+The [JPA Criteria API](https://www.baeldung.com/hibernate-criteria-queries) is also leveraged to build dynamic queries.
 
 ```java
 public interface UserRepositoryCustom {
