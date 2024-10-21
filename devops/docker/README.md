@@ -2,15 +2,21 @@
 
 Notes, snippets, and resources about Docker to remind myself of the different notions for development and deployment.
 
-<p align="center">
-  <img src="./images/high-level-architecture.png" width=470 />
-</p>
+## Quick Access
 
-<p align="center">
-  <img src="./images/simplified-architecture.jpeg" width=450 />
-</p>
+<details open>
+    <summary>Docker Architecture</summary>
+    <p align="">
+        <img src="./images/high-level-architecture.png" width=600 />
+    </p>
+</details>
 
-Snippets can be found [here]().
+<details>
+    <summary>Docker Architecture 2 (detailed)</summary>
+    <p align="">
+        <img src="./images/simplified-architecture.jpeg" width=600 />
+    </p>
+</details>
 
 ## Resources and Tools
 
