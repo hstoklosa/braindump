@@ -2,6 +2,31 @@
 
 An ongoing grind to secure that cool entry-level programming job (SWE).
 
+## Quick Access
+
+<details>
+    <summary>ROI for DSA Topics</summary>
+    <!-- &nbsp; -->
+    <p style="display:flex;" align="">
+        <img src="./images/dsa_roi.png" width=500 />
+    </p> 
+    &nbsp;
+</details>
+
+<details>
+    <summary>Big-O Cheatsheet</summary>
+    <p align="">
+        <img src="./images/big-o-cheat-sheet-poster.png" />
+    </p>
+</details>
+
+<details>
+    <summary>Big-O Cheatsheet 2</summary>
+    <p align="">
+        <img src="./images/dsa_cheatsheet.png" />
+    </p>
+</details>
+
 ## Resources & Tools
 
 ### 🧑‍💻 [NeetCode](https://neetcode.com/)
@@ -25,6 +50,14 @@ An alternative [Front End Interview Handbook](https://www.frontendinterviewhandb
 ### 🤖 [Marble - Leetcode Tutor](https://withmarble.io/)
 
 A chrome extension that provides AI-powered interactive walkthroughs for any LC problem.
+
+### [Big-O Comparsion for Data Structures & Algorithms](https://cooervo.github.io/Algorithms-DataStructures-BigONotation/index.html)
+
+A very simple cheatsheet comparing Big-O of Sorting Algorithms, Data Structures, and Growth Rates.
+
+### [Python DSA Cheatsheet](https://github.com/AbdulMalikDev/PythonCheatSheet)
+
+A cheatsheet to revise Python syntax, particularly useful when solving coding problems.
 
 ## Courses & Tutorials
 
