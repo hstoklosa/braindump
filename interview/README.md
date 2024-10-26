@@ -109,13 +109,27 @@ It helps to recognise the patterns when solving coding problems found on Leetcod
 
 A collection of interview preparation materials, which is ideal for last-minute interview prep or quick brush-ups. Another version is the [Front End Interview Handbook](https://www.frontendinterviewhandbook.com/).
 
-### 🤖 [Marble - Leetcode Tutor](https://withmarble.io/)
+### 🎓 [HelloInterview: DSA Guide](https://www.hellointerview.com/learn/code)
+
+A visual guide to the most important patterns and approaches for coding interviews (using Python) with the prerequisite of understanding fundamental data structures such as arrays, sets, and dicts.
+
+**_Comparing to HelloAlgo:_**
+
+- provides only an overview of the concepts (imo still detailed enough)
+
+- uses the concepts in practice by going through problems, which helps to develop the ability to recognise various patterns
+
+- imo, better visualisations due to the interactivity (slider + speed, hiding code)
+
+In addition, the site provides more (paid) services such as [guided practice](https://www.hellointerview.com/practice) and [mock interviews](https://www.hellointerview.com/mock/schedule).
+
+### 🎓 [HelloAlgo Course](https://www.hello-algo.com/en/)
+
+An open-source and comprehensive course on DSA that provides easy-to-understand animations with code examples in 14 different languages.
+
+### 🤖 [Marble: AI Leetcode Assistant](https://withmarble.io/)
 
 A chrome extension that provides AI-powered interactive walkthroughs for any LeetCode problem.
-
-### 🎓 [Hello Algo Course](https://www.hello-algo.com/en/)
-
-An open-source and comprehensive course on DSA that provides easy-to-understand animations with runnable code examples in 14 different languages.
 
 ### [Python DSA Cheatsheet](https://github.com/AbdulMalikDev/PythonCheatSheet)
 
