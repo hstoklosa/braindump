@@ -5,7 +5,7 @@ An ongoing grind to secure that cool entry-level programming job (SWE).
 ## Quick Access
 
 <details>
-    <summary>Tips for Leetcode Patterns</summary>
+<summary>&nbsp;Tips for Leetcode Patterns</summary>
 <br />
 
 &nbsp;&nbsp;&nbsp;**_IF INPUT ARRAY IS SORTED THEN_**
@@ -63,37 +63,35 @@ An ongoing grind to secure that cool entry-level programming job (SWE).
 </details>
 
 <details>
-<summary>&nbsp;&nbsp;Solving LeetCode problems</summary>
+<summary>&nbsp;Solving LeetCode problems</summary>
 
-- &nbsp;[github/tiationg-kho/leetcode-pattern-500](https://github.com/tiationg-kho/leetcode-pattern-500)
+- [github/tiationg-kho/leetcode-pattern-500](https://github.com/tiationg-kho/leetcode-pattern-500)
 
-- &nbsp;[Don’t Just LeetCode; Follow the Coding Patterns Instead](https://levelup.gitconnected.com/dont-just-leetcode-follow-the-coding-patterns-instead-4beb6a197fdb)
+- [Don’t Just LeetCode; Follow the Coding Patterns Instead](https://levelup.gitconnected.com/dont-just-leetcode-follow-the-coding-patterns-instead-4beb6a197fdb)
 
-- &nbsp;[Algomaster: LeetCode was HARD until I Learned these 15 Patterns](https://blog.algomaster.io/p/15-leetcode-patterns)
+- [Algomaster: LeetCode was HARD until I Learned these 15 Patterns](https://blog.algomaster.io/p/15-leetcode-patterns)
 
-<br />
 </details>
 
 <details>
-    <summary>ROI Table for DSA Topics</summary>
-    <!-- &nbsp; -->
+    <summary>&nbsp;ROI Table for DSA Topics</summary>
     <p style="display:flex;" align="">
-        <img src="./images/dsa_roi.png" width=500 />
-    </p> 
-    &nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/dsa_roi.png" width=500 />
+    </p>
+
 </details>
 
 <details>
-    <summary>Big-O Cheatsheet I</summary>
-    <p align="">
-        <img src="./images/big-o-cheat-sheet-poster.png" />
+    <summary>&nbsp;Big-O Cheatsheet I</summary>
+    <p align="display:flex;">
+        &nbsp;&nbsp;&nbsp;<img src="./images/big-o-cheat-sheet-poster.png" width="95%"/>
     </p>
 </details>
 
 <details>
-    <summary>Big-O Cheatsheet II</summary>
+    <summary>&nbsp;Big-O Cheatsheet II</summary>
     <p align="">
-        <img src="./images/dsa_cheatsheet.png" />
+        &nbsp;&nbsp;&nbsp;<img src="./images/dsa_cheatsheet.png" width="95%" />
     </p>
 </details>
 
