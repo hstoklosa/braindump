@@ -36,6 +36,8 @@ The first ever "wiki" website that displays an "_Informal History of Programming
 
 - [Maximizing Developer Effectiveness](https://martinfowler.com/articles/developer-effectiveness.html)
 
+- [Software Architecture Guide](https://martinfowler.com/architecture/)
+
 #### _Shawn @swyx Wang_
 
 - [How to Create Luck](https://www.swyx.io/create-luck)
