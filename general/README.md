@@ -16,21 +16,19 @@ _"Google has many generalized engineering practices that cover all languages and
 
 The first ever "wiki" website that displays an "_Informal History of Programming Ideas_" (read-only archive since 2015, but it's still very interesting to explore).
 
-## Articles
+## Articles: Software Development
 
-### Software Development
+#### General Series
 
-#### _General Series_
+[Refactoring Code](https://refactoring.guru/refactoring)
 
-- [Refactoring Code](https://refactoring.guru/refactoring)
-
-- [Anti-Patterns](https://sourcemaking.com/antipatterns)
+[Anti-Patterns](https://sourcemaking.com/antipatterns)
 
 #### _Sandi @skmetz Metz_
 
 - [The Wrong Abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
 
-### Self-help
+## Articles: Self-help
 
 #### _Martin Fowler_
 
