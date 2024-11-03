@@ -4,6 +4,14 @@ Notes and resources on Artificial Intelligence and Machine Learning.
 
 ## Resources
 
+### [Dive into Deep Learning](https://d2l.ai/)
+
+Interactive deep learning book with multi-framework code, math, and discussions (adopted at Stanford, MIT, Harvard, and Cambridge, and so on).
+
+#### [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) ⭐ 24k
+
+The book's repository with notes in `.md` format.
+
 ### [mlcourse.ai](https://mlcourse.ai/book/index.html)
 
 An open Machine Learning course that aims for a perfect balance between theory and practice.
