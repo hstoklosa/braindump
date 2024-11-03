@@ -1,5 +1,7 @@
 # <span style="font-size: 2.5rem;">🔮</span> Artificial Intelligence
 
+Notes and resources on Artificial Intelligence and Machine Learning.
+
 ## Resources
 
 ### [mlcourse.ai](https://mlcourse.ai/book/index.html)
@@ -11,6 +13,10 @@ An open Machine Learning course that aims for a perfect balance between theory a
 A series of Jupyter notebooks that walk you through the fundamentals of "Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 3".
 
 #### [ageron/handson-ml2](https://github.com/ageron/handson-ml2) ⭐ 30k
+
+### [nyandwi/machine_learning_complete](https://github.com/Nyandwi/machine_learning_complete)
+
+A comprehensive machine learning repository containing 30+ notebooks on different concepts, algorithms and techniques.
 
 ### [hrnbot/basic-mathematics-for-ml](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning) ⭐ 0.7k
 
