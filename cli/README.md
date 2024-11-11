@@ -1,5 +1,45 @@
 # ⌨ Terminal
 
+## Resources
+
+### [cheat.sh](https://github.com/chubin/cheat.sh)
+
+Unix cheatsheet with unified access to the best community driven cheatsheets repositories of the world.
+
+Related:
+
+- [awesome-cheatsheets/bash.sh](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh)
+
+### [Explainshell](https://www.explainshell.com/)
+
+Input a command and receive a breakdown of what each part of the command does.
+
+### [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+
+"Master the command line, in one page."
+
+### [bash-handbook](https://github.com/denysdovhan/bash-handbook)
+
+A README.md document written for those who want to learn Bash without diving in too deeply.
+
+Related:
+
+- [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)
+
+- [Google's Shell Style Guide](https://google.github.io/styleguide/shellguide.html)
+
+### [awesome-shell](https://github.com/alebcay/awesome-shell)
+
+"A curated list of awesome command-line frameworks, toolkits, guides and gizmos."
+
+Related:
+
+- [awesome-bash](https://github.com/awesome-lists/awesome-bash)
+
+- [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
+
+- [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
+
 ## Tools
 
 ### [GitHub CLI](https://cli.github.com/)
