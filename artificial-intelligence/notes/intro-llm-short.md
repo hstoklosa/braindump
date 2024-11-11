@@ -1,7 +1,7 @@
-# Introduction to LLMs [<span style="font-size:0.65em;vertical-align: 13%;">[🔗 Source]</span>](https://roadmap.sh/guides/introduction-to-llms)
+# Introduction to LLMs [<span style="font-size:0.65em;vertical-align: 13%;">[🔗]</span>](https://roadmap.sh/guides/introduction-to-llms)
 
 <p align="left">
-  <img src="./images/llms-roadmapsh.png" width=500 />
+  <img src="../images/llms-roadmapsh.png" width=500 />
 </p>
 High level answers to questions:
 
