@@ -12,6 +12,18 @@ Interactive deep learning book with multi-framework code, math, and discussions 
 
 The book's repository with notes in `.md` format.
 
+### [Deep Learning with Python Notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
+
+Jupyter notebooks for the code samples of the book "Deep Learning with Python"
+
+### [LLM Visualization](https://bbycroft.net/llm)
+
+3D animated visualisation of an GPT-style LLM with a walkthrough.
+
+### 📊 [Directory of Generative AI](https://docs.google.com/spreadsheets/d/1gc6yse74XCwBx028HV_cvdxwXkmXejVjkO-Mz2uwE0k/)
+
+A comprehensive Excel sheet with a list of models and their metadata (parameters, release date, etc).
+
 ### [mlcourse.ai](https://mlcourse.ai/book/index.html)
 
 An open Machine Learning course that aims for a perfect balance between theory and practice.
@@ -26,17 +38,17 @@ A series of Jupyter notebooks that walk you through the fundamentals of "Machine
 
 A comprehensive machine learning repository containing 30+ notebooks on different concepts, algorithms and techniques.
 
-### [hrnbot/basic-mathematics-for-ml](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning) ⭐ 0.7k
+### 📏 [hrnbot/basic-mathematics-for-ml](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning)
 
 A collection of jupyter notebooks that cover algebra, calculus, linear algebra, probability and statistics.
 
-### [maxim5/cs229-2018-autumn](https://github.com/maxim5/cs229-2018-autumn) ⭐ 2k
+### [maxim5/cs229-2018-autumn](https://github.com/maxim5/cs229-2018-autumn)
 
 All notes and materials for Stanford CS229: Machine Learning taught by Andrew Ng.
 
 ## Articles
 
-...
+- [The Transformer Family Version 2.0](https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/) ⭐
 
 ## Books
 
