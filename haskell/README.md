@@ -9,6 +9,14 @@ and some on functional programming in general.
 
 ## Resources
 
+### [Mostly Adequate Guide](https://mostly-adequate.gitbook.io/mostly-adequate-guide)
+
+An interactive guide exploring the fundamentals of functional programming.
+
+### [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
+
+A glossary explaining jargon from the functional programming world in simple terms.
+
 ### [Haskell Language](https://www.haskell.org/)
 
 The official Haskell website.
