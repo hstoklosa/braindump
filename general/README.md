@@ -1,4 +1,4 @@
-# General
+# General CS/SE
 
 Information that doesn't fit in any other category, but is still related to computer science/software engineering.
 
@@ -12,23 +12,7 @@ A detailed document authored by reputable industry professionals that covers bot
 
 _"Google has many generalized engineering practices that cover all languages and all projects. These documents represent our collective experience of various best practices that we have developed over time."_
 
-#### [WikiWikiWeb](https://wiki.c2.com/)
-
-The first ever "wiki" website that displays an "_Informal History of Programming Ideas_" (read-only archive since 2015, but it's still very interesting to explore).
-
-## Articles: Software Development
-
-#### General Series
-
-[Refactoring Code](https://refactoring.guru/refactoring)
-
-[Anti-Patterns](https://sourcemaking.com/antipatterns)
-
-#### _Sandi @skmetz Metz_
-
-- [The Wrong Abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
-
-## Articles: Self-help
+## Articles
 
 #### _Martin Fowler_
 
@@ -36,28 +20,18 @@ The first ever "wiki" website that displays an "_Informal History of Programming
 
 - [Software Architecture Guide](https://martinfowler.com/architecture/)
 
-#### _Shawn @swyx Wang_
+#### _Sandi @skmetz Metz_
 
-- [How to Create Luck](https://www.swyx.io/create-luck)
+- [The Wrong Abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
 
-- [Learn In Public: The fastest way to learn](https://www.swyx.io/learn-in-public)
+#### _Reference Sites_
 
-#### _Josh @joshwcomeau Comeau_
+- [Refactoring Code](https://refactoring.guru/refactoring)
 
-- [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/)
+- [Anti-Patterns](https://sourcemaking.com/antipatterns)
 
-#### _Ali Abdaal_
+## Miscellaneous
 
-- [Applying for a Job – 14 Effective Tips](https://aliabdaal.com/how-to-apply-for-a-job/)
+- [WikiWikiWeb](https://wiki.c2.com/)
 
-- [How to Learn Anything Faster](https://aliabdaal.com/how-to-learn-anything-faster/)
-
-  - [The Feynman Technique](https://aliabdaal.com/the-feynman-technique/)
-
-- [The Ultimate Guide To Studying For Exams](https://aliabdaal.com/the-ultimate-guide-to-studying-for-exams/)
-
-  - [Active Recall – The ‘High Utility’ Technique](https://aliabdaal.com/activerecallstudytechnique/)
-
-  - [Spaced Repetition and My ‘Magic’ Spreadsheet System](https://aliabdaal.com/spaced-repetition/)
-
-- [The Art of Reading More Effectively and Efficiently](https://aliabdaal.com/read-more-effectively/)
+  The first ever "wiki" website storing the "_Informal History of Programming Ideas_" (readonly but still very interesting to explore).
