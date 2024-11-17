@@ -1,13 +1,14 @@
-# Introduction to LLMs [<span style="font-size:0.65em;vertical-align: 13%;">[🔗]</span>](https://roadmap.sh/guides/introduction-to-llms)
+# Introduction to LLMs [<span style="font-size:0.55em;vertical-align: 2%;">SOURCE 🔗</span>](https://roadmap.sh/guides/introduction-to-llms)
 
-<p align="left">
-  <img src="../images/llms-roadmapsh.png" width=500 />
-</p>
-High level answers to questions:
+Very high level answers to questions like:
 
 - _What are LLMs?_
 - _How do they work?_
 - _What are the use cases?_
+
+<p align="left">
+  <img src="../images/llms-roadmapsh.png" width=500 />
+</p>
 
 ## What are LLMs?
 

@@ -2,6 +2,11 @@
 
 Notes and resources on Artificial Intelligence and Machine Learning.
 
+<details open>
+    <summary>Domains of AI</summary>
+    <img src="./images/ai-domains.png" width="700" />
+</details>
+
 ## Tools
 
 ### [LlamaIndex](https://github.com/run-llama/llama_index)
