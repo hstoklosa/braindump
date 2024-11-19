@@ -31,37 +31,36 @@ A comprehensive Excel sheet with a list of models and their metadata (parameters
 
 Interactive deep learning book with multi-framework code, math, and discussions (adopted at Stanford, MIT, Harvard, and Cambridge, and so on).
 
-#### [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) ⭐ 24k
-
-The book's repository with notes in `.md` format.
+- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) ⭐ 24k — The book's repository with notes in `.md` format.
 
 ### [Deep Learning with Python Notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
 
 Jupyter notebooks for the code samples of the book "Deep Learning with Python"
 
+### [handson-ml3](https://github.com/ageron/handson-ml3) ⭐ 8k
+
+A series of Jupyter notebooks that walk you through the fundamentals of "Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 3".
+
+- [handson-ml2](https://github.com/ageron/handson-ml2) ⭐ 30k
+
 ### [mlcourse.ai](https://mlcourse.ai/book/index.html)
 
 An open Machine Learning course that aims for a perfect balance between theory and practice.
 
-### [ageron/handson-ml3](https://github.com/ageron/handson-ml3) ⭐ 8k
-
-A series of Jupyter notebooks that walk you through the fundamentals of "Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 3".
-
-#### [ageron/handson-ml2](https://github.com/ageron/handson-ml2) ⭐ 30k
-
-### [nyandwi/machine_learning_complete](https://github.com/Nyandwi/machine_learning_complete)
+### [machine_learning_complete](https://github.com/Nyandwi/machine_learning_complete)
 
 A comprehensive machine learning repository containing 30+ notebooks on different concepts, algorithms and techniques.
 
-### 📏 [hrnbot/basic-mathematics-for-ml](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning)
+### 📏 [basic-mathematics-for-ml](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning)
 
-A collection of jupyter notebooks that cover algebra, calculus, linear algebra, probability and statistics.
+A collection of jupyter notebooks that cover algebra, calculus, linear algebra, and probability and statistics.
 
-### [maxim5/cs229-2018-autumn](https://github.com/maxim5/cs229-2018-autumn)
+### [cs229-2018-autumn](https://github.com/maxim5/cs229-2018-autumn)
 
 All notes and materials for Stanford CS229: Machine Learning taught by Andrew Ng.
 
-## Awesome Lists
+<details>
+    <summary><h3>Awesome Lists</h3></summary>
 
 - [Awesome AI for LAM](https://ai4lam.github.io/awesome-ai4lam)
 - [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision#readme)
@@ -74,7 +73,7 @@ All notes and materials for Stanford CS229: Machine Learning taught by Andrew Ng
 - [Awesome Image Classification](https://github.com/weiaicunzai/awesome-image-classification#readme)
 - [Awesome Jupyter GLAM](https://github.com/LibraryCarpentry/awesome-jupyter-glam#readme)
 - [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM#readme)
-- [Awesome LLMOps](https://github.com/tensorchord/Awesome-LLMOps) — [related awesome lists](https://github.com/tensorchord/Awesome-LLMOps?tab=readme-ov-file#awesome-lists)
+- [Awesome LLMOps](https://github.com/tensorchord/Awesome-LLMOps) — [related awesome-lists](https://github.com/tensorchord/Awesome-LLMOps?tab=readme-ov-file#awesome-lists)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#readme)
 - [Awesome ML](https://github.com/underlines/awesome-ml) — [awesome-ml/llm-tools](https://github.com/underlines/awesome-ml/blob/master/llm-tools.md)
 - [Awesome Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme)
@@ -85,6 +84,7 @@ All notes and materials for Stanford CS229: Machine Learning taught by Andrew Ng
 - [Awesome Visual Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer#readme)
 - [Awesome XAI](https://github.com/altamiracorp/awesome-xai#readme)
 - [The NLP Index](https://index.quantumstat.com)
+</details>
 
 ## Articles
 
@@ -98,6 +98,14 @@ All notes and materials for Stanford CS229: Machine Learning taught by Andrew Ng
 
 ## Books
 
+- [Artificial Intelligence: A Modern Approach](https://www.goodreads.com/book/show/27543.Artificial_Intelligence)
+
+- [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+
+- [Deep Learning](https://www.deeplearningbook.org/)
+
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
 
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
+
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
