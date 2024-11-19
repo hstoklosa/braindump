@@ -8,7 +8,7 @@ These basic notes answer the high-level questions:
 
 ## Overview
 
-<img src="../images/llms-roadmapsh.png" width=500 />
+<img src="./images/llms-roadmapsh.png" width=500 />
 
 ## What are LLMs?
 
