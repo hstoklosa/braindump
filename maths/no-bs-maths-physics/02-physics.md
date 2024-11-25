@@ -1,0 +1,54 @@
+# 2. Introduction to physics
+
+## 2.3 Introduction to calculus
+Calculus is the study of functions and their properties with 2 operations:
+- **derivatives** to describe how quantities _change over time_
+- **integrals** to calculate the total amount of a quantity _accumulated_ over a time period
+### Derivatives
+The derivative function $f'(t)$ describes how the function $f(t)$ changes over time.
+- encodes the information about the _instantaneous rate of change_ of $f(t)$
+- equivalent to the _slope_ of the graph of the function at that point
+
+$$f'(t) \equiv \text{slope}_f(t) = \frac{\text{change in }f(t)}{\text{change in }t} = \frac{f(t + \Delta t) - f(t)}{\Delta t}$$
+In general, the instantaneous slope of a function is different for different values of $t$.
+
+![[./images/linear-fn-derivative.jpg|center|500]]
+
+The derivative operation is denoted by several names and symbols: $$Df(t) = f' (t) = \frac{df}{dt} = \frac{d}{dt}\{f(t)\} = \dot{a}$$
+Think of $f'(t)$ as a property of the function $f(t)$ - an operator $\frac{d}{dt}$ that you can apply to any function to obtain its slope information.
+### Integrals
+An integral corresponds to the computation of the area enclosed between the curve $f(t)$ and the $x$-axis over some interval:
+$$A(a,b) \equiv \int_{t=a}^{t=b} f(t) \, dt$$
+
+![[./images/constant-fn-integral.jpg|center|250]]
+
+Symbol $\int$ means sum, and the area under the curve corresponds to the sum of the values of $f(t)$ between $t=a$ and $t=b$.
+
+The integral is the total of $f$ between $a$ and $b$.
+- A total function is **a function that is defined for every possible input in its domain, and always returns a valid output in its range**.
+
+#### Inverse operations
+The integral is the inverse operation of the derivative. Understanding the inverse relationship will allow you to solve for the unknown function in some equations.
+
+Similarly to functions, we use the integral operation to undo the effects of the derivative operation when we try to solve for some unknown $f(t)$.
+
+**For example:** suppose $g(t)$ is a known function and we’re trying to solve for $f(t)$:
+$$\frac{d}{dt}\{f(t)\} = g(t)$$
+Taking the integral on the left-hand side of the equation will undo the derivative.
+$$\int \frac{d}{dt}\{f(t)\} \, dt = \int g(t) \, dt$$
+To keep the equality true, we must apply the “integrate over t” operation on both sides of the equation.
+$$f(t) = \int g(t) \, dt$$
+The integral isn’t exactly the inverse of the derivative — there is an extra constant factor that appears when integrating.
+
+**For example:** 
+Given the derivative function $f'(t)$, integrate it between $t = 0$ and $t = \tau$.
+- Intuitively, this integral corresponds to calculating the **total of the changes** in $f(t)$ during that time interval.
+- Recall the notation “change in $f$” i.e., $\Delta f \equiv f(\tau) − f(0)$ 
+
+$\Delta f$ makes it easier to visualise how the integral over $f'(t)$ corresponds to the total change in $f(t)$ between $t=0$ and $t=\tau$.
+$$\int_0^{\tau} f'(t) \, dt = \Delta f \equiv f(\tau) - f(0)$$
+Calculating the total of the instantaneous changes in $f$ during the interval $[0, \tau]$
+$$f(\tau) = f(0) + \int_0^{\tau} f'(t) \, dt$$
+**Note:** 
+- The expression for $f(\tau)$ depends on the value of $f(t)$ at $t = 0$, which we call the _initial value_ of the function.
+- In physics problems, the initial values of the equations of motion $x(0) \equiv x_i$ and $v(0) \equiv v_i$ are called the _initial conditions_.
