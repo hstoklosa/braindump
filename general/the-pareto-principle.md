@@ -1,11 +1,9 @@
 # The Pareto Principle
-
 - The Pareto Principle (or **80/20 rule**) is the broad observation that approximately **80% of outcomes** come from about **20% of your inputs**.
 - Therefore you should concentrate on areas where you can get 'big wins' with comparatively 'little effort'.
 - For example: the 80/20 rule can be applied to studying by:
   - focusing on **high-yield topics** i.e., the stuff that gets big marks
   - using **active learning techniques** that can offer **better results with less time invested**
-
 ## Using the Pareto Principle when studying
 
 1. **Set a Goal:** Define what you’re aiming to **achieve** with your study session.
@@ -32,7 +30,6 @@
 - **In-depth reading of 'important' sections:** Read these sections carefully, taking notes and highlighting important points.
 - **Quick scan of the rest:** A lighter read or skim can suffice for the remaining sections.
   - The aim here is just to **fill in the gaps** and **provide context** to what you’ve read in the 'important' sections.
-
 ## Advantages
 
 - Makes studying **more efficient** by focusing on high-impact topics.
