@@ -1,5 +1,4 @@
-# 2. Introduction to physics
-
+# 2. Introduction to Physics
 ## 2.3 Introduction to calculus
 Calculus is the study of functions and their properties with 2 operations:
 - **derivatives** to describe how quantities _change over time_
@@ -27,6 +26,7 @@ Symbol $\int$ means sum, and the area under the curve corresponds to the sum of 
 The integral is the total of $f$ between $a$ and $b$.
 - A total function is **a function that is defined for every possible input in its domain, and always returns a valid output in its range**.
 
+![[physics_integral_examples.png|center|400]]
 #### Inverse operations
 The integral is the inverse operation of the derivative. Understanding the inverse relationship will allow you to solve for the unknown function in some equations.
 
