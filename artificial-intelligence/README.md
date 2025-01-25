@@ -7,59 +7,37 @@ Notes and resources on Artificial Intelligence and Machine Learning.
     <img src="./images/ai-domains.png" width="700" />
 </details>
 
+
+<details closed>
+    <summary>Summary</summary>
+    <img src="./images/w_1264.png" width="700" />
+    <img src="./images/w_1250.png" width="700" />
+    <img src="./images/w_1240.png" width="700" />
+</details>
+
 ## Tools
-
+### [ArtificialAnalysis](https://artificialanalysis.ai/)
+Independent analysis of AI models and API providers to understand the AI landscape.
+### [LLM Extractum](https://llm.extractum.io/)
+A curated list of open-source LLMs.
 ### [LlamaIndex](https://github.com/run-llama/llama_index)
-
 LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
 
 ## Resources
-
-### [LLM Extractum](https://llm.extractum.io/)
-
-A curated list of open-source LLMs.
-
 ### [LLM Visualization](https://bbycroft.net/llm)
-
 3D animated visualisation of an GPT-style LLM with a walkthrough.
-
 ### 📊 [Directory of Generative AI](https://docs.google.com/spreadsheets/d/1gc6yse74XCwBx028HV_cvdxwXkmXejVjkO-Mz2uwE0k/)
-
 A comprehensive Excel sheet with a list of models and their metadata (parameters, release date, etc).
-
 ### [Dive into Deep Learning](https://d2l.ai/)
-
 Interactive deep learning book with multi-framework code, math, and discussions (adopted at Stanford, MIT, Harvard, and Cambridge, and so on).
 
-- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) ⭐ 24k — The book's repository with notes in `.md` format.
-
-### [Deep Learning with Python Notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
-
-Jupyter notebooks for the code samples of the book "Deep Learning with Python"
-
 ### [handson-ml3](https://github.com/ageron/handson-ml3) ⭐ 8k
-
 A series of Jupyter notebooks that walk you through the fundamentals of "Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 3".
-
-- [handson-ml2](https://github.com/ageron/handson-ml2) ⭐ 30k
-
-### [mlcourse.ai](https://mlcourse.ai/book/index.html)
-
-An open Machine Learning course that aims for a perfect balance between theory and practice.
-
 ### [machine_learning_complete](https://github.com/Nyandwi/machine_learning_complete)
-
 A comprehensive machine learning repository containing 30+ notebooks on different concepts, algorithms and techniques.
 
-### 📏 [basic-mathematics-for-ml](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning)
 
-A collection of jupyter notebooks that cover algebra, calculus, linear algebra, and probability and statistics.
-
-### [cs229-2018-autumn](https://github.com/maxim5/cs229-2018-autumn)
-
-All notes and materials for Stanford CS229: Machine Learning taught by Andrew Ng.
-
-<details>
+<details closed>
     <summary><h3>Awesome Lists</h3></summary>
 
 - [Awesome AI for LAM](https://ai4lam.github.io/awesome-ai4lam)
@@ -86,11 +64,20 @@ All notes and materials for Stanford CS229: Machine Learning taught by Andrew Ng
 - [The NLP Index](https://index.quantumstat.com)
 </details>
 
+### [Deep Learning with Python Notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
+Jupyter notebooks for the code samples of the book "Deep Learning with Python"
+### [mlcourse.ai](https://mlcourse.ai/book/index.html)
+An open Machine Learning course that aims for a perfect balance between theory and practice.
+### 📏 [basic-mathematics-for-ml](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning)
+A collection of jupyter notebooks that cover algebra, calculus, linear algebra, and probability and statistics.
+### [cs229-2018-autumn](https://github.com/maxim5/cs229-2018-autumn)
+All notes and materials for Stanford CS229: Machine Learning taught by Andrew Ng.
+
 ## Articles
 
 - [The Transformer Family Version 2.0](https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/) ⭐
 
-- [The 6 Best LLM Tools To Run Models Locally](https://getstream.io/blog/best-local-llm-tools/)
+- [LLM Tools To Run Models Locally](https://getstream.io/blog/best-local-llm-tools/)
 
 - [12 LLM Projects For All Levels](https://www.datacamp.com/blog/llm-projects)
 
