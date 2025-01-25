@@ -2,7 +2,7 @@
 
 Notes and resources on Artificial Intelligence and Machine Learning.
 
-<details open>
+<details closed>
     <summary>Domains of AI</summary>
     <img src="./images/ai-domains.png" width="700" />
 </details>
@@ -24,18 +24,19 @@ A curated list of open-source LLMs.
 LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
 
 ## Resources
+### [Introduction to Machine Learning](https://sebastianraschka.com/blog/2021/ml-course.html)
+Lecture videos/slides on Python basics, tree-based methods, model evaluation, and feature selection.
+
+### [Introduction to Deep Learning](https://sebastianraschka.com/blog/2021/dl-course.html)
+Lecture videos/slides from Adaptive Linear Neurons to Zero-shot Classification with Transformers.
+### [handson-ml3](https://github.com/ageron/handson-ml3)
+A series of Jupyter notebooks that walk you through the fundamentals of "Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 3".
+### [MadeWithML](https://madewithml.com/)
+Learn how to design, develop, deploy and iterate on production-grade ML applications.
 ### [LLM Visualization](https://bbycroft.net/llm)
 3D animated visualisation of an GPT-style LLM with a walkthrough.
 ### 📊 [Directory of Generative AI](https://docs.google.com/spreadsheets/d/1gc6yse74XCwBx028HV_cvdxwXkmXejVjkO-Mz2uwE0k/)
 A comprehensive Excel sheet with a list of models and their metadata (parameters, release date, etc).
-### [Dive into Deep Learning](https://d2l.ai/)
-Interactive deep learning book with multi-framework code, math, and discussions (adopted at Stanford, MIT, Harvard, and Cambridge, and so on).
-
-### [handson-ml3](https://github.com/ageron/handson-ml3) ⭐ 8k
-A series of Jupyter notebooks that walk you through the fundamentals of "Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 3".
-### [machine_learning_complete](https://github.com/Nyandwi/machine_learning_complete)
-A comprehensive machine learning repository containing 30+ notebooks on different concepts, algorithms and techniques.
-
 
 <details closed>
     <summary><h3>Awesome Lists</h3></summary>
@@ -64,15 +65,12 @@ A comprehensive machine learning repository containing 30+ notebooks on differen
 - [The NLP Index](https://index.quantumstat.com)
 </details>
 
+### [machine_learning_complete](https://github.com/Nyandwi/machine_learning_complete)
+A comprehensive machine learning repository containing 30+ notebooks on different concepts, algorithms and techniques.
+### [Dive into Deep Learning](https://d2l.ai/)
+Interactive deep learning book with multi-framework code, math, and discussions (adopted at Stanford, MIT, Harvard, and Cambridge, and so on).
 ### [Deep Learning with Python Notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
 Jupyter notebooks for the code samples of the book "Deep Learning with Python"
-### [mlcourse.ai](https://mlcourse.ai/book/index.html)
-An open Machine Learning course that aims for a perfect balance between theory and practice.
-### 📏 [basic-mathematics-for-ml](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning)
-A collection of jupyter notebooks that cover algebra, calculus, linear algebra, and probability and statistics.
-### [cs229-2018-autumn](https://github.com/maxim5/cs229-2018-autumn)
-All notes and materials for Stanford CS229: Machine Learning taught by Andrew Ng.
-
 ## Articles
 
 - [The Transformer Family Version 2.0](https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/) ⭐
