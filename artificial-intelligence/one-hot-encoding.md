@@ -1,5 +1,5 @@
 # One-hot Encoding
-Common challenge in machine learning is dealing with [[descriptive-statistics#Qualitative data|categorical variables]] because the algorithms typically require numerical input. 
+Common challenge in machine learning is dealing with [[1-descriptive-statistics#Qualitative data|categorical variables]] because the algorithms typically require numerical input.
 
 One-hot encoding is a technique for representing categorical data as numerical vectors, where each unique category is represented by a binary column with a value of 1 indicating its presence and 0 indicating its absence.
 
