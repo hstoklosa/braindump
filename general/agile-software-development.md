@@ -1,0 +1,203 @@
+# Agile Software Development
+Notes on the course [Agile Software Development](https://www.linkedin.com/learning/agile-software-development) course by Shashi Shekhar.
+## 0 Introduction
+- **0.1 The Agile Approach**
+    - Agile practices help teams produce high-quality code and ship products early and often.
+    - Emphasizes using bottom-up intelligence to harness developers’ creativity.
+    - Prioritizes a sustainable working pace to optimize productivity.
+    - The course will cover key agile principles from the developers’ perspective.
+    - Popular agile approaches such as Scrum, Kanban, and Extreme Programming (XP) will be discussed.
+    - Instructor Shashi Shekhar brings nearly two decades of agile experience.
+- **0.2 What You Should Know**
+    - Agile enables continuous delivery of valuable software with an emphasis on speed and quality.
+    - It’s less about choosing whether to be agile and more about how to become agile quickly.
+    - Focus is on rapid adaptation to change, leveraging creativity, and sustaining productivity.
+## 1 Agile Fundamentals
+- **1.1 The Software Crisis**
+    - Early software development mimicked manufacturing/construction (waterfall model).
+    - Waterfall divides work into distinct, frozen phases (requirements, design, development, testing, deployment, maintenance).
+    - Two major issues with waterfall:
+        - Delayed customer feedback—customers see the product only after most of the work is done.
+        - Top-down management prioritizes rigid processes over people, leading to inefficiencies.
+    - High failure rates in traditional projects (Standish Group and Ambler/Constantine reports) highlighted the need for a new approach.
+- **1.2 Agile to the Rescue**
+    - Change is inevitable in software due to evolving technology, market, and organizational shifts.
+    - Agile treats software development as an empirical process that relies on real experiences.
+    - Emphasizes iterative and incremental delivery to manage risks.
+    - The Agile Manifesto (2001) established four tenets:
+        - **Individuals and Interactions** over processes and tools.
+        - **Working Software** over comprehensive documentation.
+        - **Customer Collaboration** over contract negotiation.
+        - **Responsiveness to Change** over following a fixed plan.
+- **1.3 Agile Principles**
+    - **Customer Satisfaction:** Deliver valuable software early and continuously.
+    - **Welcoming Change:** Embrace changing requirements even late in development.
+    - **Frequent Delivery:** Release working software frequently (weeks to a few months).
+    - **Collaboration:** Daily cooperation between business people and developers.
+    - **Motivated Teams:** Build projects around motivated individuals and provide them with support.
+    - **Effective Communication:** Prefer face-to-face conversation to convey information efficiently.
+- **1.4 Agile Principles Continued**
+    - **Working Software:** The primary measure of progress.
+    - **Sustainable Development:** Maintain a constant, sustainable pace.
+    - **Technical Excellence:** Continuous attention to good design and technical excellence improves agility.
+    - **Simplicity:** Maximize the work not done; focus on what’s truly needed.
+    - **Self-Organizing Teams:** The best architectures, requirements, and designs emerge from teams that organize themselves.
+    - **Regular Reflection:** At intervals, teams should inspect and adapt their processes for continuous improvement.
+## 2 Scrum: The Developer Perspective
+- **2.1 Scrum Introduction**
+    - Scrum is a lightweight framework for developing complex products.
+    - It is not a methodology; it’s an abstract framework with minimal prescriptive practices.
+    - Core roles:
+        - **Product Owner:** Defines what to build.
+        - **Development Team:** Cross-functional members who build the product.
+        - **Scrum Master:** Facilitates the process and ensures adherence to Scrum practices.
+    - Uses time-boxed sprints (up to 30 days) to produce a potentially shippable increment.
+    - Key events include Sprint Planning, Daily Scrum, Sprint Review, and Sprint Retrospective.
+    - Artifacts include the Product Backlog, Sprint Backlog, and the Product Increment.
+- **2.2 Empiricism**
+    - Knowledge is derived from evidence and experience rather than from detailed upfront planning.
+    - Teams continuously adjust plans based on real-world feedback.
+    - Example: Estimating commute time by accounting for real traffic conditions rather than a simple calculation.
+- **2.3 The Scrum Pillars (TIA)**
+    - **Transparency:** All aspects of the work (artifacts, processes, progress) must be visible.
+    - **Inspection:** Regularly review and assess work to detect variances from goals.
+    - **Adaptation:** Adjust processes based on insights gained from inspection.
+    - Information radiators (e.g., dashboards) enhance transparency.
+- **2.4 Scrum Values**
+    - Core values: **Focus, Respect, Openness, Courage, and Commitment.**
+    - These values are embedded in Scrum practices (e.g., time-boxed events, openness in discussions, willingness to adapt).
+- **2.5 Scrum Roles: The Product Owner**
+    - Represents business stakeholders and defines the vision.
+    - Accountable for the Product Backlog’s content, order, and clarity.
+    - Collaborates with both the development team and stakeholders for continuous refinement.
+- **2.6 Scrum Roles: The Development Team Member**
+    - Cross-functional and self-organizing team responsible for turning backlog items into a working increment.
+    - No designated team lead; responsibility is shared among members.
+    - Works closely with the Product Owner and Scrum Master to estimate, clarify, and execute work.
+- **2.7 Scrum Roles: The Scrum Master**
+    - Acts as a coach and facilitator for the Scrum team.
+    - Helps remove impediments and fosters an environment of continuous improvement.
+    - Advocates for agile principles throughout the organization.
+- **2.8 Scrum Events**
+    - **Sprint:** A time-boxed period (up to 30 days) to deliver a product increment.
+    - **Sprint Planning:** Defines what will be accomplished and how.
+    - **Daily Scrum:** A short daily meeting to synchronize work and plan adjustments.
+    - **Sprint Review:** A collaborative session with stakeholders to inspect the increment.
+    - **Sprint Retrospective:** A meeting for the team to reflect on process improvements.
+    - Only the Product Owner can cancel a sprint, and only under significant external factors.
+- **2.9 Scrum Artifacts: The Product Backlog**
+    - A prioritized to-do list of requirements, enhancements, defects, and ideas.
+    - Items near the top are more refined and ready for implementation.
+    - Regular backlog grooming/refinement ensures items are estimable and actionable.
+- **2.10 Scrum Artifacts: The Sprint Backlog and Increment**
+    - **Sprint Backlog:** A subset of the Product Backlog selected for the sprint plus the development team’s plan.
+    - **Increment:** The integrated and potentially shippable product that results from a sprint.
+    - Emphasis on “vertical slicing” to ensure each increment provides end-to-end functionality.
+- **2.11 Common Myths**
+    - **Daily Scrum is not a status meeting:** It’s a team coordination session.
+    - **Agile teams do document:** Documentation is done when it adds value (e.g., customer-facing or mandated by law).
+    - **Tools alone do not make a team agile:** Agility is a mindset, not just a set of tools.
+    - **Sprint Reviews are not mere product demos:** They are collaborative review sessions aimed at planning future work.
+## 3 Agile Software Engineering Techniques
+- **3.1 Extreme Programming (XP)**
+    - XP is a collection of engineering practices aimed at improving software quality.
+    - Uses short weekly iterations and a quarterly cycle for planning and retrospectives.
+    - Emphasizes customer involvement, whole-team collaboration, and sustainable work practices.
+    - Encourages a “whole team” approach including customers in the process.
+- **3.2 XP Execution**
+    - **Test-first Development:** Write tests before coding to ensure requirements are met.
+    - **Incremental Design and Refactoring:** Begin with a good design and continuously evolve it.
+    - **Quick Build Process:** Aim for builds under 10 minutes to enable frequent integration and feedback.
+    - **Pair Programming:** Developers work in pairs for immediate code review and knowledge sharing.
+    - **Continuous Integration:** Regularly integrate and test code to detect issues early.
+- **3.3 Pair Programming**
+    - Two developers share one workstation; one writes code while the other reviews in real time.
+    - Roles are switched periodically to ensure balanced participation.
+    - Benefits include immediate peer review, higher code quality, reduced distractions, and enhanced knowledge sharing.
+    - Helps shift team skills from I-shaped (deep in one area) to T-shaped (broad and deep skills).
+- **3.4 Test-Driven Development (TDD)**
+    - A three-step cycle:
+        1. **Write a Failing Test:** Specify functionality before coding.
+        2. **Write Minimal Code:** Get code to compile and ensure the test still fails.
+        3. **Complete Implementation:** Write code to pass the test, then refactor.
+    - Encourages thoughtful design, reduces developer bias in testing, and improves maintainability.
+    - Supported by modern IDEs and unit testing frameworks; high code coverage is a key goal.
+- **3.5 User Stories**
+    - A simple, concise way to capture product requirements (often on an index card or sticky note).
+    - Common format: “As a [role], I want [feature] so that [benefit].”
+    - Includes acceptance criteria (conditions of satisfaction) on the reverse side.
+    - Emphasizes conversation and collaboration between stakeholders and the development team (the three C’s: Card, Conversation, Confirmation).
+- **3.6 Epics and Themes**
+    - **Epics:** Large, coarse-grained user stories representing complex workflows too big to estimate directly.
+    - **Themes:** Logical groupings or tags that associate related user stories (e.g., payment processing, mobile features).
+- **3.7 Agile Estimation**
+    - Relies on relative estimation rather than absolute time units.
+    - Common techniques include:
+        - **Fibonacci or Exponential Series:** Numbers grow non-linearly to reflect increasing uncertainty.
+        - **T-Shirt Sizes:** Qualitative sizing (XS to XL) to compare work items.
+    - Encourages team consensus and considers uncertainty with larger items.
+- **3.8 Planning Poker**
+    - A consensus-based estimation technique where team members independently vote using cards.
+    - Discrepancies trigger discussion to uncover assumptions and clarify requirements.
+    - Time-boxed and designed to avoid bias; the final estimate is reached through consensus.
+- **3.9 DevOps: The Problem**
+    - Traditional deployment pipelines create friction between rapid development and IT operations.
+    - Frequent changes from agile teams can overwhelm operations due to differences in environments, configurations, and dependencies.
+    - Result: Increased risk of instability and delayed deployments.
+- **3.10 DevOps: The Solution**
+    - Fosters a culture of collaboration between developers (Dev) and operations (Ops).
+    - Emphasizes:
+        - **Continuous Integration (CI):** Frequent commits trigger automated builds and tests.
+        - **Continuous Delivery (CD):** Keep the product in a deployable state at all times.
+        - **Automation:** Use tools to automate builds, testing, infrastructure provisioning, and monitoring.
+    - Aims to reduce lead times and improve stability through collective responsibility.
+- **3.11 Agile Reporting**
+    - Visual reports help track progress and identify bottlenecks:
+        - **Burndown Charts:** Plot remaining work versus time against an ideal trend line.
+        - **Burnup Charts:** Show cumulative work completed compared to the total scope.
+        - **Cumulative Flow Diagrams (CFDs):** Illustrate work items in various states over time, highlighting bottlenecks.
+    - Transparency through reporting ensures all team members have visibility into project status.
+## 4 Kanban for Developers
+- **4.1 Lean History**
+    - Kanban originates from Lean Manufacturing and the Toyota Production System.
+    - Inspired by Little’s Law, it emphasizes minimizing work-in-progress (WIP) to reduce waste.
+    - Focuses on aligning production with consumption to enhance flow.
+- **4.2 Kanban Board**
+    - A visual tool that represents the workflow as columns (or lanes) with work items shown as cards.
+    - Common columns may include stages like Planning, Design, Development, and Acceptance.
+    - Implements a pull system where work is started only when capacity is available.
+- **4.3 Limiting Work in Progress (WIP)**
+    - Limits the number of items in any workflow stage to reduce context switching and improve focus.
+    - Helps prevent bottlenecks by ensuring no stage is overwhelmed.
+    - Transforms a push system (where work is dumped into stages) into a pull system.
+- **4.4 How to Set WIP Limits**
+    - **Team-Level Limits:** Often set as the number of team members plus a buffer.
+    - **Stage-Level Limits:** Based on the capacity of the slowest or most resource-intensive step.
+    - Techniques include splitting columns into “doing” and “done” to clearly indicate progress and enforce done criteria.
+    - Overrides are possible for urgent work but should be rare and visible for later discussion.
+- **4.5 Kanban vs. Scrum**
+    - **Kanban:**
+        - Continuous flow without fixed time-boxed iterations.
+        - No mandatory roles or prescribed events.
+        - Focuses on visualizing work and limiting WIP.
+    - **Scrum:**
+        - Uses sprints with defined roles (Product Owner, Scrum Master, Development Team) and events (planning, daily scrum, review, retrospective).
+    - Both approaches are lightweight; many teams combine them (Scrumban) to leverage benefits from each.
+## 5 Scaling Agile
+- **5.1 Scaling Agile**
+    - Scaling agile increases the rate at which features are developed and deployed by using multiple teams.
+    - Necessary for complex products with a large feature set and strict deadlines.
+    - Scaling adds complexity (more dependencies, increased communication overhead); therefore, scale slowly and address team-level issues first.
+    - Establish architectural and development standards early to ensure consistency across teams.
+- **5.2 Scaling Frameworks**
+    - **Nexus:** A scaled Scrum framework adding roles, events, and artifacts to coordinate multiple Scrum teams working in parallel.
+    - **Scrum@Scale:** Uses a “Scrum of Scrums” approach where daily meetings at multiple levels synchronize work and scale roles hierarchically.
+    - **LeSS (Large-Scale Scrum):** Prescriptive framework for scaling Scrum to 2–8 teams (or more with LeSS Huge) while maintaining one overall Product Backlog and Product Owner.
+    - **SAFe (Scaled Agile Framework):** Combines agile, lean, and other practices; structured into team and program levels (with further configurations for large solutions and portfolios).
+- **5.3 Scaling Frameworks, Continued**
+    - Effective scaling requires a strong agile foundation at the team level.
+    - Choosing the right framework depends on organizational needs, team size, and complexity.
+    - Critical factors for successful scaling:
+        - Avoid scaling unnecessarily.
+        - Scale gradually while addressing challenges.
+        - Ensure common architectural and development guidelines are understood and followed by all teams.
