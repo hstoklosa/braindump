@@ -1,7 +1,6 @@
 # As a software developer
 
 As a Software developer, you may be called upon to perform some of these tasks in your career. How well a CS degree prepares you for these tasks (and whether it even should prepare you for these) is left as an exercise to the reader.
-
 1.  Make a behavioural change to a medium-to-large system that you don't understand.
 2.  The system is "slow". Figure out why.
 3.  Review a colleague's code and provide meaningful feedback. The code may be in a part of the codebase that you don't have any personal experience with.
@@ -14,7 +13,7 @@ As a Software developer, you may be called upon to perform some of these tasks i
 10. Communicate the status of your work-in-progress to your manager in a way that both reflects your uncertainty and is useful for your manager.
 11. Take part in quarterly planning of development work, prioritising a set of proposed work.
 12. Advocate for reliability-related work, since it will never be driven by customer asks (although they will be upset if the service goes down).
-13. Analyze a system outage to understand how it happened (one of my personal favorites).
+13. Analyse a system outage to understand how it happened (one of my personal favourites).
 14. Migrate your service from one platform to another without impacting customers.
 15. Convince a team that consumes a platform you provide to migrate from the old version to the new one, and then retire it.
 16. Figure out how to interface the system you are working on with another system, that is poorly documented.
@@ -29,7 +28,7 @@ As a Software developer, you may be called upon to perform some of these tasks i
 
 _...(I'll randomly do some more as it strikes me)..._
 
-1.  Instrument your code to make it easier to reason about its behavior when it's running (i.e., improve operability).
+1.  Instrument your code to make it easier to reason about its behaviour when it's running (i.e., improve operability).
 2.  Describe, in writing, examples of the human activities that your software system is intended to support.
 3.  Develop a deeper understanding of a system that you now work on but ^ W didn't build.
 4.  Look into the history of how an internal system came to be implemented the way it was.

@@ -4,7 +4,7 @@
 	<details>
 	    <summary>Map of mathematical concepts</summary>
 		<div>Source: <a href="https://minireference.com/" target="__blank">https://minireference.com/</a></div>
-	    <img src="./no-bs-maths-physics/images/concept_map.png" />
+	    <img src="no-bs-maths-physics/images/concept_map.png" />
 	</details>
 </p>
 
